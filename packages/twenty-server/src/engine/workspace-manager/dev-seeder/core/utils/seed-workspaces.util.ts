@@ -55,7 +55,7 @@ export const seedWorkspaces = async ({
       displayName: 'Boris',
       subdomain: 'yc',
       inviteHash: 'yc.dev-invite-hash',
-      logo: 'https://devudmbucket.s3.us-east-1.amazonaws.com/Boris.svg',
+      logo: 'https://devudmbucket.s3.us-east-1.amazonaws.com/boris-globe.png',
       activationStatus: WorkspaceActivationStatus.PENDING_CREATION, // will be set to active after default role creation
       version: version,
     },
