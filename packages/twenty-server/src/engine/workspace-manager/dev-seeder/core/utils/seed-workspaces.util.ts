@@ -52,10 +52,10 @@ export const seedWorkspaces = async ({
     },
     [SEED_YCOMBINATOR_WORKSPACE_ID]: {
       id: SEED_YCOMBINATOR_WORKSPACE_ID,
-      displayName: 'YCombinator',
+      displayName: 'Boris',
       subdomain: 'yc',
       inviteHash: 'yc.dev-invite-hash',
-      logo: 'https://twentyhq.github.io/placeholder-images/workspaces/ycombinator-logo.png',
+      logo: 'https://devudmbucket.s3.us-east-1.amazonaws.com/Boris.svg',
       activationStatus: WorkspaceActivationStatus.PENDING_CREATION, // will be set to active after default role creation
       version: version,
     },
