@@ -1,7 +1,7 @@
+import { BLUE_SCALE } from './BlueScale';
 import { COLOR } from './Colors';
-
 export const ACCENT_LIGHT = {
-  primary: COLOR.blueAccent25,
+  primary: BLUE_SCALE.blue40,
   secondary: COLOR.blueAccent20,
   tertiary: COLOR.blueAccent15,
   quaternary: COLOR.blueAccent10,
