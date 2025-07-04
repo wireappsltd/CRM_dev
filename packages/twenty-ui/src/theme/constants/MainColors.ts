@@ -10,6 +10,6 @@ export const MAIN_COLORS = {
   pink: '#f54bd0',
   red: '#f83e3e',
   orange: '#ff7222',
-  yellow: '#ffd338',
+  yellow: '#00475b',
   gray: GRAY_SCALE.gray30,
 };

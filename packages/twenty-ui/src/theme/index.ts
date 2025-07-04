@@ -15,6 +15,7 @@ export type { AnimationDuration } from './constants/Animation';
 export { ANIMATION } from './constants/Animation';
 export { BACKGROUND_DARK } from './constants/BackgroundDark';
 export { BACKGROUND_LIGHT } from './constants/BackgroundLight';
+export { BLUE_SCALE } from './constants/BlueScale';
 export { BLUR_DARK } from './constants/BlurDark';
 export { BLUR_LIGHT } from './constants/BlurLight';
 export { BORDER_COMMON } from './constants/BorderCommon';
